@@ -33,7 +33,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> </a>
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Hritik0607/Hritik0607/tree/main/images/rabbitmq-logo.png" alt="rabbitmq" width="40" height="40"/> </a>
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Hritik0607/Hritik0607/tree/main/images/mlflow-logo.png" alt="mlflow" width="40" height="40"/> </a>
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Hritik0607/Hritik0607/blob/main/images/mlflow-logo.png" alt="mlflow" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hritik0607&show_icons=true&locale=en&layout=compact" alt="hritik-jaiswal" /></p>
