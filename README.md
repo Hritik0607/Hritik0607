@@ -28,11 +28,11 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hritik0607/Hritik0607/tree/main/images/statsmodels-logo.png" alt="statsmodels" width="40" height="40"/> </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hritik0607/Hritik0607/tree/a6eb0462418c1d7f0d12e858ca7b26d0af3fa816/images/streamlit-logo.png" alt="streamlit" width="40" height="40"/> </a>
+  <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Hritik0607/Hritik0607/blob/main/images/statsmodels-logo.png" alt="statsmodels" width="40" height="40"/> </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/Hritik0607/Hritik0607/blob/main/images/streamlit-logo.png" alt="streamlit" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Hritik0607/Hritik0607/tree/main/images/rabbitmq-logo.png" alt="rabbitmq" width="40" height="40"/> </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Hritik0607/Hritik0607/blob/main/images/rabbitmq-logo.png" alt="rabbitmq" width="40" height="40"/> </a>
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Hritik0607/Hritik0607/blob/main/images/mlflow-logo.png" alt="mlflow" width="40" height="40"/> </a>
 </p>
 
