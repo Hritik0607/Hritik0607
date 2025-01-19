@@ -24,16 +24,16 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Statsmodels_logo.png" alt="statsmodels" width="40" height="40"/> </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://docs.streamlit.io/library/_static/img/logo.svg" alt="streamlit" width="40" height="40"/> </a>
+  <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/yourusername/yourrepository/images/statsmodels-logo.png" alt="statsmodels" width="40" height="40"/> </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/yourusername/yourrepository/images/streamlit-logo.png" alt="streamlit" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.rabbitmq.com/img/RabbitMQ-logo.svg" alt="rabbitmq" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="sql" width="40" height="40"/> </a> <!-- SQL generally refers to the language, this icon is for MySQL as an example -->
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/> </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/yourusername/yourrepository/images/rabbitmq-logo.png" alt="rabbitmq" width="40" height="40"/> </a>
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/yourusername/yourrepository/images/mlflow-logo.png" alt="mlflow" width="40" height="40"/> </a>
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viltu-jujhajiya&show_icons=true&locale=en&layout=compact" alt="viltu-jujhajiya" /></p>
